@@ -1,0 +1,3 @@
+#excluir archivos cdr
+*.cdr
+*.tmp
